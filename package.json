@@ -1,0 +1,22 @@
+{
+  "name": "tina-blog",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "tinacms dev -c \"astro dev\"",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.3.1",
+    "@astrojs/mdx": "^1.1.5",
+    "@astrojs/rss": "^3.0.0",
+    "@astrojs/sitemap": "^3.0.3",
+    "@tinacms/cli": "^1.5.31",
+    "astro": "^3.5.4",
+    "tinacms": "^1.5.22",
+    "typescript": "^5.2.2"
+  }
+}

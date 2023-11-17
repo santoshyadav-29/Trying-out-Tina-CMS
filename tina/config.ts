@@ -5,8 +5,8 @@ import { defineConfig } from "tinacms";
 
 export default defineConfig({
   branch:process.env.VERCEL_GIT_COMMIT_REF,
-  clientId: process.env.TIna_CLIENT_ID,
-  token: process.env.TIna_TOKEN,
+  clientId: process.env.TINA_CLIENT_ID,
+  token: process.env.TINA_TOKEN,
 
   // Get this from tina.io
 

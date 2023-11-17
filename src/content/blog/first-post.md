@@ -1,7 +1,8 @@
 ---
-title: First post Haha
+title: First post 1
 description: Lorem ipsum dolor sit amet
 pubDate: 2022-07-07T18:15:00.000Z
+updatedDate: 2023-11-22T18:15:00.000Z
 heroImage: /blog-placeholder-3.jpg
 ---
 
